@@ -1,0 +1,11 @@
+PORT=5000
+
+MONGO_URI=mongodb+srv://todo-app1:Test1234@cluster0.cpumfrb.mongodb.net/todo-app1?retryWrites=true&w=majority&appName=Cluster0
+
+JWT_SECRET=9357f1f213afba78c6e163bd43e27a5969bed14347a1ce1fa771e50b2a79ab2b
+
+
+GOOGLE_CLIENT_ID=759149372216-9tttpc2cegvf3l4rhadhffbohc5e74rm.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
+
+CLIENT_URL=http://localhost:3000
